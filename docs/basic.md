@@ -4,13 +4,18 @@ SSH（Secure Shell 的缩写）是一种网络协议，用于加密两台计算�
 
 实务中，它主要用于保证远程登录和远程通信的安全，任何网络服务都可以用这个协议来加密。
 
+
+<p>
+<button style="font-size:24px">按钮 <i class="fa fa-american-sign-language-interpreting"></i></button>
+
+</p>
+
+
 ## SSH 是什么
 
 历史上，网络主机之间的通信是不加密的，属于明文通信。这使得通信很不安全，一个典型的例子就是服务器登录。登录远程服务器的时候，需要将用户输入的密码传给服务器，如果这个过程是明文通信，就意味着传递过程中，线路经过的中间计算机都能看到密码，这是很可怕的。
 
 ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F60b50dcd-9ced-4e88-b6bb-9cd0c2b96d42%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1694313975&t=13f46d7a4cfc0159da0f860cf0dde1c8)
-
-![1111](image/1691722310355.png)
 
 SSH 就是为了解决这个问题而诞生的，它能够加密计算机之间的通信，保证不被窃听或篡改。它还能对操作者进行认证（authentication）和授权（authorization）。明文的网络协议可以套用在它里面，从而实现加密。
 
