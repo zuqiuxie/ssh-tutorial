@@ -6,8 +6,7 @@ SSH（Secure Shell 的缩写）是一种网络协议，用于加密两台计算�
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
-<p>
-<button style="font-size:24px">按钮 <i class="fa fa-american-sign-language-interpreting"></i></button></p>
+<i class="fa fa-camera-retro"></i>
 <p><i class="fa fa-camera-retro fa-5x"></i></p>
 <p>
 <div class="list-group">
