@@ -6,12 +6,12 @@ SSH（Secure Shell 的缩写）是一种网络协议，用于加密两台计算�
 
 
 
-<i class="fa fa-phone fa-3x"></i>13388888888
+<i class="fa fa-phone fa-2x"></i>13388888888
 <i class="fa fa-camera-retro"></i>
 <i class="fa fa-camera-retro fa-5x"></i></p>
 <i class="fa fa-circle-o-notch fa-spin"></i>
 <i class="fa fa-refresh fa-spin"></i>
-<i class="fa fa-cog fa-spin"></i>
+<i class="fa fa-phone-square fa-2x "></i>
 
 
 ## SSH 是什么
