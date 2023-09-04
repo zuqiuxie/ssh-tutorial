@@ -6,15 +6,13 @@ SSH（Secure Shell 的缩写）是一种网络协议，用于加密两台计算�
 
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
+<i class="fa fa-phone"></i>
 <i class="fa fa-camera-retro"></i>
-<p><i class="fa fa-camera-retro fa-5x"></i></p>
-<p>
-<div class="list-group">
-  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Home</a>
-  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw"></i>&nbsp; Library</a>
-  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
-  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
-</div></p>
+<i class="fa fa-camera-retro fa-5x"></i></p>
+<i class="fa fa-circle-o-notch fa-spin"></i>
+<i class="fa fa-refresh fa-spin"></i>
+<i class="fa fa-cog fa-spin"></i>
+<i class="fa fa-spinner fa-pulse"></i>
 
 ## SSH 是什么
 
