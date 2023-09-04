@@ -12,6 +12,7 @@ SSH（Secure Shell 的缩写）是一种网络协议，用于加密两台计算�
 <i class="fa fa-circle-o-notch fa-spin"></i>
 <i class="fa fa-refresh fa-spin"></i>
 <i class="fa fa-phone-square fa-2x "></i>
+<i class="fa fa-microphone fa-2x "></i>
 
 
 ## SSH 是什么
