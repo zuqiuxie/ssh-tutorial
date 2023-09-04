@@ -4,11 +4,8 @@ SSH 是服务器登录工具，一般情况下都采用密码登录或密钥登�
 
 但是，SSH 还有第三种登录方法，那就是证书登录。某些情况下，它是更合理、更安全的登录方法，本文就介绍这种登录方法。
 
-
-<p>
-<button style="font-size:24px">按钮 <i class="fa fa-american-sign-language-interpreting"></i></button>
-</p>
-
+<i class="fa fa-phone-square fa-2x "></i>
+<i class="fa fa-microphone fa-2x "></i>
 
 ## 非证书登录的缺点
 
