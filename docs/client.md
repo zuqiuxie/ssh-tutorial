@@ -4,10 +4,10 @@
 
 OpenSSH 的客户端是二进制程序 ssh。它在 Linux/Unix 系统的位置是 `/usr/local/bin/ssh`。
 
-`<i class="fa fa-phone-square fa-2x "></i>`
-`<i class="fa fa-microphone fa-2x "></i>`
+<i class="fa fa-phone-square fa-2x "></i>
+<i class="fa fa-microphone fa-2x "></i>
 
-`<i class="fa fa-microphone fa-2x "></i>`
+<i class="fa fa-microphone fa-2x "></i>
 
 Linux 系统一般都自带 ssh，如果没有就需要安装。
 
